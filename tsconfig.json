@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "my-common-ui-lib": [
+        "dist/my-common-ui-lib"
+      ],
+      "my-common-ui-lib/*": [
+        "dist/my-common-ui-lib/*"
+      ]
+    }
   }
 }
