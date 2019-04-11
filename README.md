@@ -10,7 +10,7 @@ npm i && npm run build && npm i && npm run start
 
 Navigate to `http://localhost:8000/`
 
-## Subsequent Starts
+## Subsequent Starts after Library Change
 
 ```
 npm run build && npm i && npm run start
